@@ -22,8 +22,8 @@ To write a Java program that defines a class Circle and uses a constructor to ca
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: Kishore B
-RegisterNumber:  212224100032
+Developed by: JAYASURYA B
+RegisterNumber:  212224100026
 */
 ```
 
