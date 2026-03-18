@@ -20,8 +20,8 @@ To write a Java program to print a hollow square pattern using asterisks (*).
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by: Kishore B
-RegisterNumber:  212224100032
+Developed by: JAYASURYA B
+RegisterNumber:  212224100026
 */
 ```
 
